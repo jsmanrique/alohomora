@@ -18,7 +18,25 @@ $ python app.py
 
 Visit your *alohomora* website at `http://localhost:8080/`
 
-You can add new projects, and for each of them add data sources and check configuration json file too.
+You can add new projects, and for each of them add data sources and check configuration json file too, that will look like:
+
+```javascript
+{
+  '_id': '534539954353534',
+  '_rev': '1-454353453453',
+  'name': 'Testing',
+  'repositories': [
+    {
+      'repo_type': 'git',
+      'repo_uri': 'git://git.commits.com/'
+    },
+    {
+      'repo_type': 'github',
+      'repo_uri': 'http://github.com/jsmanrique'
+    },
+  ]
+}
+```
 
 Each project configuration is stored as a document in a CouchDB database. You can learn more about CouchBD here:
 
