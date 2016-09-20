@@ -30,9 +30,9 @@ As you might see in the code, I am not a developer, so don't expect any good pra
 ToDo
 ----
 
-A lot! This is a //proof of concept// of how a configuration manager for [GrimoireLab](http://grimoirelab.github.io) could works
+A lot! This is a *proof of concept* of how a configuration manager for [GrimoireLab](http://grimoirelab.github.io) could works
 
-And, why //alohomora//
+And, why *alohomora*
 ---------------------
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/List_of_spells_in_Harry_Potter#Alohomora), it stands for:
