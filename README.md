@@ -48,7 +48,7 @@ As you might see in the code, I am not a developer, so don't expect any good pra
 ToDo
 ----
 
-A lot! This is a *proof of concept* of how a configuration manager for [GrimoireLab](http://grimoirelab.github.io) could works
+A lot! This is a *proof of concept* of how a configuration manager for [GrimoireLab](http://grimoirelab.github.io) could work/look like.
 
 And, why *alohomora*
 ---------------------
