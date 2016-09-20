@@ -41,7 +41,7 @@ You can add new projects, and for each of them add data sources and check config
 Each project configuration is stored as a document in a CouchDB database. You can learn more about CouchBD here:
 
 * http://docs.couchdb.org/en/stable/intro/
-* http://docs.couchdb.org/en/stable/intro/
+* http://guide.couchdb.org/index.html
 
 As you might see in the code, I am not a developer, so don't expect any good practice there.
 
